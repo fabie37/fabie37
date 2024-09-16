@@ -17,6 +17,6 @@ Recent favourite quote:
 ## Education 📚
 University of Glasgow (Graduated 2022)
 
-![Fabie37's Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=fabie37&layout=compact&langs_count=9&theme=dracula)
+![Fabie37's Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=fabie37&layout=compact&langs_count=10&theme=dracula)
 
-![](https://komarev.com/ghpvc/?username=fabie37)
+![](https://komarev.com/ghpvc/?username=fabie37&color=green)
