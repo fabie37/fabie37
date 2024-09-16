@@ -14,3 +14,9 @@ Hi, I develop software! Well, at least I like to think I do? Here's a sense of w
 Recent favourite quote:
 `Lady Luck` favours the one who tries. 🍀
 
+## Education 📚
+University of Glasgow (Graduated 2022)
+
+![Fabie37's Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=fabie37&layout=compact&langs_count=9&theme=dracula)
+
+![](https://komarev.com/ghpvc/?username=fabie37)
